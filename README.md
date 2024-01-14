@@ -1,5 +1,5 @@
 <p>
-  <img src="Resource/Top_Wave.svg">
+  <img src="Resource/Top_Wave.svg" width="500">
 </p>
 
 <h1 align=center><b>robothaver</b></h1>
