@@ -1,7 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1376 503" width="1376" height="503">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 773 503" width="773" height="503">
 	<title>Vector-svg</title>
 	<defs>
-		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-337.08,-1449.488,3592.95,-835.544,918.5,829.11)">
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-337.08,-1449.488,3592.95,-835.544,315.5,829.11)">
 			<stop offset="0" stop-color="#681fc6"/>
 			<stop offset=".506" stop-color="#15032d"/>
 		</linearGradient>
@@ -11,7 +11,7 @@
 	<style>
 		.s0 { fill: url(#g1) } 
 	</style>
-	<path id="Layer" class="s0" d="m75 371.8c-48-143.8-75-371.8-75-371.8h30.3 151.7 182 182 181.9 182 182 182 102.1c0 76.9-41.5 118.1-102.1 175.8-60.7 57.6-121.3 118.1-182 131.8-60.7 13.7-121.3-13.7-182-43.9-60.6-30.3-121.3-57.7-182-73.4q-91-21.8-181.9 0c-60.7 15.7-77.8 46.8-138.5 120.9-60.7 74.2-129 189.8-175.5 190.8-46.5 1-109 13.6-157-130.2z"/>
-	<use id="Vector-1" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
-	<use id="Vector-2" href="#img2" transform="matrix(1,0,0,1,0,0)"/>
+	<path id="Layer" class="s0" d="m-528 371.8c-48-143.8-75-371.8-75-371.8h30.3 151.7 182 182 181.9 182 182 182 102.1c0 76.9-41.5 118.1-102.1 175.8-60.7 57.6-121.3 118.1-182 131.8-60.7 13.7-121.3-13.7-182-43.9-60.6-30.3-121.3-57.7-182-73.4q-91-21.8-181.9 0c-60.7 15.7-77.8 46.8-138.5 120.9-60.7 74.2-129 189.8-175.5 190.8-46.5 1-109 13.6-157-130.2z"/>
+	<use id="Vector-1" href="#img1" transform="matrix(1,0,0,1,-603,0)"/>
+	<use id="Vector-2" href="#img2" transform="matrix(1,0,0,1,-603,0)"/>
 </svg>
