@@ -1,12 +1,12 @@
 <p>
-  <img src="Resource/Top_Wave.svg" width=550>
+  <img src="Resource/Top_Wave.svg">
 </p>
 
 <h1 align=center><b>robothaver</b></h1>
 
-<h4 align=center><b>Highschool student</b></h4>
+<p align=center><b>Highschool student</b></p>
 
 
 <p align="right">
-  <img src="Resource/Bottom_Wave.svg" width=500>
+  <img src="Resource/Bottom_Wave.svg">
 </p>
