@@ -4,7 +4,7 @@
 
 <h1 align=center><b>robothaver</b></h1>
 
-<p align=center><b>Highschool student</b></p>
+<p align=center>High school student</p>
 
 
 <p align="right">
